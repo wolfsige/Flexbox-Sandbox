@@ -1,0 +1,12 @@
+nav {
+  display: flex;
+  height: 60px;
+  background-color: #000000;
+}
+
+div {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 10px;
+  color: #ffffff;
+}
