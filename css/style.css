@@ -7,13 +7,13 @@ nav {
   background-color: #000000;
 }
 
-nav > div:last-child {
-  margin-left: auto;
-}
-
-div {
+nav > div {
   font-size: 20px;
   font-weight: bold;
   margin: 10px;
   color: #ffffff;
+}
+
+nav > div:last-child {
+  margin-left: auto;
 }
